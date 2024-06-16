@@ -1,7 +1,10 @@
-# Tauri + React
+# Tanic
+Simple TCP/UDP Tester
 
-This template should help get you started developing with Tauri and React in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## TODO
+- [x] side bar 
+- [ ] connect ui
+- [ ] send ui
+- [ ] get ui
+- [x] tcp connect client
+- [x] udp connect client
